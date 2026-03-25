@@ -1,6 +1,6 @@
 # Project Overview
 This project is a data visualization dashboard that analyzes the sale performance of Blinkit. It turns a large list of sales data into an easy-to-read visual report.
-##Tools used
+## Tools used
 Microsoft Excel
 
 
