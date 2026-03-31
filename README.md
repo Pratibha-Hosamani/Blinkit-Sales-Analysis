@@ -36,4 +36,5 @@ Rating
 ## Conclusion
    This project helps understand Blinkit sales patterns and product performance. The dashboard provides quick insights that can help businesses make better decisions
 # Dashboard Preview
-<img width="1158" height="690" alt="blinkit" src="https://github.com/user-attachments/assets/96d1e1e3-f51a-44ac-b92b-071a56f5fb4c" />
+<img width="1335" height="764" alt="blinkit" src="https://github.com/user-attachments/assets/d8abae78-1233-4b48-874f-f86d811ec67b" />
+
